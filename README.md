@@ -1,5 +1,3 @@
-# SarinSwarm
-
 Downloads for SarinSwarm test builds. SarinSwarm is a desktop app for running AI coding agents side by side on your projects.
 
 ## Download
